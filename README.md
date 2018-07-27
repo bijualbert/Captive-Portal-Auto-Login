@@ -7,10 +7,10 @@
 
 ## Run
 
-    navin@Radiant ~$ git clone https://github.com/NavinF/Captive-Portal-Auto-Login
+    balbert@Radiant ~$ git clone https://github.com/bijualbert/Captive-Portal-Auto-Login
     Cloning into 'Captive-Portal-Auto-Login'...
-    navin@Radiant ~$ cd Captive-Portal-Auto-Login 
-    navin@Radiant ~/Captive-Portal-Auto-Login (master=)$ ./captive-portal-auto-login.py
+    balbert@Radiant ~$ cd Captive-Portal-Auto-Login 
+    balbert@Radiant ~/Captive-Portal-Auto-Login (master=)$ ./captive-portal-auto-login.py
     Logged In.
 
 This works with most captive portals I have encountered such as the San Jose Public Library wifi. Send pull requests to support more portals. 
